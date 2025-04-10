@@ -1,4 +1,4 @@
-#lista de objetos
+#variaveis e dados
 nome = "alice" #variavel string
 idade =25 #variavel inteira (int)
 altura = 1.68 #variavel float
